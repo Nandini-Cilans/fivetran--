@@ -1,2 +1,2 @@
-# fivetran--
+# fivetran
 test &amp; learn
